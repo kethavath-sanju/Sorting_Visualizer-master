@@ -24,9 +24,10 @@ User Controls:
 Adjust visualization speed (5 levels)
 Set data size
 Generate new data sets randomly
-Complexity Metrics:
 
+Complexity Metrics:
 Displays time and space complexity for the selected algorithm.
+
 Getting Started
 Prerequisites
 Ensure you have the following installed:
@@ -36,6 +37,7 @@ Usage
 Open the application in your web browser.
 Use the sliders to adjust the size of the array and the speed of the algorithm.
 Click on "Generate New Array" to create a new dataset.
+
 Select an algorithm to visualize how it sorts the array.
 Technologies Used
 ->HTML/CSS for the user interface
@@ -45,8 +47,5 @@ Technologies Used
 Contributing
 Feel free to fork the repository and submit pull requests for any improvements or additional features.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 Contact
-For any inquiries, please contact your-email@example.com.
+For any inquiries, please contact kethavathsanju931@gmail.com 
